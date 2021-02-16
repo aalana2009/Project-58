@@ -1,0 +1,22 @@
+body{
+  text-align:center;
+ background-color:purple
+}
+img{
+  width:200px
+}
+.menu{
+    font-family: cursive;
+        font-size: 20px;
+    color: blueviolet;
+    list-style: none;
+    margin-left:900px;
+    z-index:10;
+}
+.link{
+    float: left;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-top: 9px;
+    padding-bottom: 9px;
+    
